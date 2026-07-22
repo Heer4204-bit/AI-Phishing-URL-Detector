@@ -2,7 +2,7 @@
 AI Phishing URL Detector is an AI-powered web application that detects whether a URL is safe or phishing using Machine Learning and URL feature analysis.
 
 🚀 Live Demo
-👉 Add your deployed app link here
+👉 https://heer4204-bit.github.io/AI-Phishing-URL-Detector/
 
 📌 Features
 - 🔍 Detects phishing and legitimate URLs
